@@ -1,3 +1,5 @@
+![PDF Compressor Banner](./pdfcompressor-social.png)
+
 # PDF Compressor
 
 A powerful PDF compression tool with a modern GUI that intelligently reduces PDF file sizes while preserving quality. Features multiple compression strategies including vector-preserving compression, selective rasterization, and grayscale conversion.
