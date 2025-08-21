@@ -1,5 +1,5 @@
 PyQt6>=6.5,<7
-pypdf>=4.0.0,<6
+pypdf>=6.0.0,<7
 pymupdf>=1.23.8,<2
 pdf2image>=1.17.0,<2
 Pillow>=10.0.0,<12

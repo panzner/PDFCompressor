@@ -138,3 +138,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Uses PyMuPDF for PDF processing and rendering
 - Leverages Poppler tools for enhanced PDF analysis
 - Ghostscript integration for specialized compression scenarios
+
+## Security update
+
+On 2025-08-21, dependencies were updated to address a security advisory:
+
+- Bumped `pypdf` to `>=6.0.0,<7` per Dependabot alert (CVE-2025-55197). This project uses pypdf for PDF analysis (reading, text extraction, and metadata probing) and is compatible with 6.x APIs.
+
+Action for users: update your environment
+
+```bash
+pip install -r requirements.txt
+```
