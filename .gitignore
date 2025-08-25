@@ -92,3 +92,10 @@ test_*.pdf
 # Build artifacts
 PDFCompressorBuild/build/
 PDFCompressorBuild/dist/
+
+# Standalone build artifacts
+standalone_build/dist/
+standalone_build/build/
+standalone_build/build_env/
+*.app
+*.dmg
